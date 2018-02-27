@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gaia Lufrano",
-    "currentPage": "landing.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 192,
     "versionPublish": "4.6.5",
@@ -3426,10 +3426,10 @@
         }
       ]
     },
-    "landing.html": {
+    "index.html": {
       "settings": {
         "main": true,
-        "title": "Gaia Lufrano - Landing",
+        "title": "Gaia Lufrano",
         "meta_descr": "© Copyright 2018 Gaia Lufrano - All Rights Reserved",
         "header_custom": "",
         "footer_custom": "",
