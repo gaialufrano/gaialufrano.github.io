@@ -3647,8 +3647,11 @@ body {
 .cid-qM7U70fTwY .mbr-section-subtitle {
   color: #ff0000;
 }
+.cid-qM7U70fTwY .mbr-section-subtitle B {
+  color: #ff0000;
+}
 .cid-qTnSjtnQz9 {
-  padding-top: 75px;
+  padding-top: 0px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
